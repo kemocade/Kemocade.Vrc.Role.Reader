@@ -7,6 +7,7 @@
 # Introduction
 
 Video Introduction on YouTube:
+
 [![Intro Video](http://img.youtube.com/vi/YedZa5gvlZg/0.jpg)](http://www.youtube.com/watch?v=YedZa5gvlZg "Introduction")
 
 This package exposes user membership and roles from VRChat Groups and/or Discord Servers to Udon, which are not otherwise possible to access.
