@@ -5,6 +5,10 @@
 
 -----
 # Introduction
+
+Video Introduction on YouTube:
+[![Intro Video](http://img.youtube.com/vi/YedZa5gvlZg/0.jpg)](http://www.youtube.com/watch?v=YedZa5gvlZg "Introduction")
+
 This package exposes user membership and roles from VRChat Groups and/or Discord Servers to Udon, which are not otherwise possible to access.
 It accomplishes this by pairing with a companion GitHub Actions workflow, which uses the [VRChat API](https://vrchatapi.github.io) and/or a [Discord Bot](https://discord.com/developers/docs/intro) to gather the desired data.
 That information is then published to [GitHub Pages](https://pages.github.com/), where it can then be consumed by this package via [Remote String Loading](https://creators.vrchat.com/worlds/udon/string-loading).
