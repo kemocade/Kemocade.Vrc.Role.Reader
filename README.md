@@ -22,7 +22,7 @@ Install via the [VCC Package Listing](https://kemocade.github.io/Kemocade.Vrc.Ro
 
 # Usage
 Add the provided [Reader](Packages/com.kemocade.vrc.role.reader/Runtime/Reader.cs) `Component` to any `GameObject` in your scene.
-Connect to your tracked data by using the inspector to set the `Data Url` property to your GitHub Pages `data.json` Url from the [final step of configuring your Kemocade VRC Role Tracker](https://github.com/kemocade/Kemocade.Vrc.Role.Tracker#6-get-the-results) instance.
+Connect to your tracked data by using the inspector to set the `Data Url` property to your GitHub Pages `data.json` Url from the [final step of configuring your Kemocade VRC Role Tracker](https://github.com/kemocade/Kemocade.Vrc.Role.Tracker#7-get-the-results) instance.
 
 `Reader` provides a `bool` property named `IsLoaded` which determines if the remote string loading process has been completed.
 All of the following methods will return `false` until this process has finished, so you should always check `IsLoaded` before using them.
