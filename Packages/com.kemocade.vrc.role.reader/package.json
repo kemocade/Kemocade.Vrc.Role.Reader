@@ -1,0 +1,14 @@
+{
+  "name": "com.kemocade.vrc.role.reader",
+  "displayName": "Kemocade VRC Role Reader",
+  "version": "0.0.3",
+  "description": "VRChat Role Reader",
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "^1.1.9"
+  },
+  "author": {
+    "name": "dustuu",
+    "email": "dustuu@kemocade.com",
+    "url": "https://kemocade.com"
+  }
+}
