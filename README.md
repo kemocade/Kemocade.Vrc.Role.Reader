@@ -1,5 +1,12 @@
 ﻿# Kemocade VRC Role Reader
 
+# This project has moved!
+The functionality of the VRChat Role Reader is now part of the [VRChat API Reader](https://github.com/kemocade/Kemocade.Vrc.Api.Reader)!
+
+Visit the new repository for updated versions and features.
+
+# Archive
+
 [![VPM Package Version](https://img.shields.io/vpm/v/com.kemocade.vrc.role.reader?repository_url=https%3A%2F%2Fkemocade.github.io%2FKemocade.Vrc.Role.Reader%2Findex.json)](https://kemocade.github.io/Kemocade.Vrc.Role.Reader)
 [![Code Coverage](https://kemocade.github.io/Kemocade.Vrc.Role.Reader/coverage/badge_shieldsio_linecoverage_brightgreen.svg)](https://kemocade.github.io/Kemocade.Vrc.Role.Reader/coverage)
 
